@@ -1,0 +1,27 @@
+.margenIzquierdo {
+    margin-left: 25px;
+}
+
+.margenSuperior {
+    margin-top: 25px;
+}
+
+.tamanoImagen {
+    width: 200%;
+    height: 200%;
+}
+
+.marginSuperiorBotones {
+    margin-top: 25px;
+}
+.margenIzquierdoButton {
+    margin-left: 180px;
+}
+
+h1 {
+    margin-bottom: 30px;
+}
+
+.cardMarginBotton {
+    margin-bottom: 30px;
+}

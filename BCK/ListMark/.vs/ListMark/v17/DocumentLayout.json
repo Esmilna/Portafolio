@@ -1,0 +1,555 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\listmarkapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\listmarkapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\repository\\irepository\\ilogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\repository\\irepository\\ilogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\repository\\listdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\repository\\listdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\repository\\productlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\repository\\productlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\models\\productlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\models\\productlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\controller\\productlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\controller\\productlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\models\\listdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\models\\listdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\models\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\models\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\controller\\listcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\controller\\listcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\repository\\irepository\\ilistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\repository\\irepository\\ilistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\repository\\listrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\repository\\listrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\controller\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\controller\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\controller\\detailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\controller\\detailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\controller\\listdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\controller\\listdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\repository\\irepository\\icommonfieldsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\repository\\irepository\\icommonfieldsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\repository\\irepository\\iproductlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\repository\\irepository\\iproductlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\repository\\irepository\\ipermissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\repository\\irepository\\ipermissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\controller\\commonfieldscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\controller\\commonfieldscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\controller\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\controller\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\controller\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\controller\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\controller\\supermarketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\controller\\supermarketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\controller\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\controller\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\controller\\permissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\controller\\permissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\migrations\\20240217005656_createtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\migrations\\20240217005656_createtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\migrations\\20240318202909_tableupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\migrations\\20240318202909_tableupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\migrations\\20240318133435_listfixproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\migrations\\20240318133435_listfixproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|c:\\repos\\esmilna\\listmark\\listmark\\listmarkapi\\migrations\\20240318132623_listfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E24526-0121-4339-81E3-A57D0A125718}|ListMarkApi\\ListMarkApi.csproj|solutionrelative:listmarkapi\\migrations\\20240318132623_listfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240318202909_TableUpdate.cs",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Migrations\\20240318202909_TableUpdate.cs",
+              "RelativeDocumentMoniker": "ListMarkApi\\Migrations\\20240318202909_TableUpdate.cs",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Migrations\\20240318202909_TableUpdate.cs",
+              "RelativeToolTip": "ListMarkApi\\Migrations\\20240318202909_TableUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:29:09.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductListRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Repository\\ProductListRepository.cs",
+              "RelativeDocumentMoniker": "ListMarkApi\\Repository\\ProductListRepository.cs",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Repository\\ProductListRepository.cs",
+              "RelativeToolTip": "ListMarkApi\\Repository\\ProductListRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:24:49.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductList.cs",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Models\\ProductList.cs",
+              "RelativeDocumentMoniker": "ListMarkApi\\Models\\ProductList.cs",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Models\\ProductList.cs",
+              "RelativeToolTip": "ListMarkApi\\Models\\ProductList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:10:21.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IListRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Repository\\IRepository\\IListRepository.cs",
+              "RelativeDocumentMoniker": "ListMarkApi\\Repository\\IRepository\\IListRepository.cs",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Repository\\IRepository\\IListRepository.cs",
+              "RelativeToolTip": "ListMarkApi\\Repository\\IRepository\\IListRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:20:01.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ListRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Repository\\ListRepository.cs",
+              "RelativeDocumentMoniker": "ListMarkApi\\Repository\\ListRepository.cs",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Repository\\ListRepository.cs",
+              "RelativeToolTip": "ListMarkApi\\Repository\\ListRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:19:55.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PermissionController.cs",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Controller\\PermissionController.cs",
+              "RelativeDocumentMoniker": "ListMarkApi\\Controller\\PermissionController.cs",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Controller\\PermissionController.cs",
+              "RelativeToolTip": "ListMarkApi\\Controller\\PermissionController.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:28:44.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LogController.cs",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Controller\\LogController.cs",
+              "RelativeDocumentMoniker": "ListMarkApi\\Controller\\LogController.cs",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Controller\\LogController.cs",
+              "RelativeToolTip": "ListMarkApi\\Controller\\LogController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:28:44.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ListController.cs",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Controller\\ListController.cs",
+              "RelativeDocumentMoniker": "ListMarkApi\\Controller\\ListController.cs",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Controller\\ListController.cs",
+              "RelativeToolTip": "ListMarkApi\\Controller\\ListController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:28:44.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Controller\\ProductController.cs",
+              "RelativeDocumentMoniker": "ListMarkApi\\Controller\\ProductController.cs",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Controller\\ProductController.cs",
+              "RelativeToolTip": "ListMarkApi\\Controller\\ProductController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA1wB4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:28:44.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListMarkApi.csproj",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\ListMarkApi.csproj",
+              "RelativeDocumentMoniker": "ListMarkApi\\ListMarkApi.csproj",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\ListMarkApi.csproj",
+              "RelativeToolTip": "ListMarkApi\\ListMarkApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-18T11:28:44.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListDetailsRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Repository\\ListDetailsRepository.cs",
+              "RelativeDocumentMoniker": "ListMarkApi\\Repository\\ListDetailsRepository.cs",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Repository\\ListDetailsRepository.cs",
+              "RelativeToolTip": "ListMarkApi\\Repository\\ListDetailsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T23:24:12.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILogRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Repository\\IRepository\\ILogRepository.cs",
+              "RelativeDocumentMoniker": "ListMarkApi\\Repository\\IRepository\\ILogRepository.cs",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Repository\\IRepository\\ILogRepository.cs",
+              "RelativeToolTip": "ListMarkApi\\Repository\\IRepository\\ILogRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T23:24:21.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Program.cs",
+              "RelativeDocumentMoniker": "ListMarkApi\\Program.cs",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Program.cs",
+              "RelativeToolTip": "ListMarkApi\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:28:44.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240318133435_ListFixproduct.cs",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Migrations\\20240318133435_ListFixproduct.cs",
+              "RelativeDocumentMoniker": "ListMarkApi\\Migrations\\20240318133435_ListFixproduct.cs",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Migrations\\20240318133435_ListFixproduct.cs",
+              "RelativeToolTip": "ListMarkApi\\Migrations\\20240318133435_ListFixproduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:34:35.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductListController.cs",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Controller\\ProductListController.cs",
+              "RelativeDocumentMoniker": "ListMarkApi\\Controller\\ProductListController.cs",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Controller\\ProductListController.cs",
+              "RelativeToolTip": "ListMarkApi\\Controller\\ProductListController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:28:44.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "List.cs",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Models\\List.cs",
+              "RelativeDocumentMoniker": "ListMarkApi\\Models\\List.cs",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Models\\List.cs",
+              "RelativeToolTip": "ListMarkApi\\Models\\List.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:45:39.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ListMarkApi\\Models\\Product.cs",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Models\\Product.cs",
+              "RelativeToolTip": "ListMarkApi\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:45:43.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ListDetails.cs",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Models\\ListDetails.cs",
+              "RelativeDocumentMoniker": "ListMarkApi\\Models\\ListDetails.cs",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Models\\ListDetails.cs",
+              "RelativeToolTip": "ListMarkApi\\Models\\ListDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:48:11.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DetailsController.cs",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Controller\\DetailsController.cs",
+              "RelativeDocumentMoniker": "ListMarkApi\\Controller\\DetailsController.cs",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Controller\\DetailsController.cs",
+              "RelativeToolTip": "ListMarkApi\\Controller\\DetailsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:28:44.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20240318132623_ListFix.cs",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Migrations\\20240318132623_ListFix.cs",
+              "RelativeDocumentMoniker": "ListMarkApi\\Migrations\\20240318132623_ListFix.cs",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Migrations\\20240318132623_ListFix.cs",
+              "RelativeToolTip": "ListMarkApi\\Migrations\\20240318132623_ListFix.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:26:23.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ListDetailsController.cs",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Controller\\ListDetailsController.cs",
+              "RelativeDocumentMoniker": "ListMarkApi\\Controller\\ListDetailsController.cs",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Controller\\ListDetailsController.cs",
+              "RelativeToolTip": "ListMarkApi\\Controller\\ListDetailsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:28:44.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IPermissionRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Repository\\IRepository\\IPermissionRepository.cs",
+              "RelativeDocumentMoniker": "ListMarkApi\\Repository\\IRepository\\IPermissionRepository.cs",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Repository\\IRepository\\IPermissionRepository.cs",
+              "RelativeToolTip": "ListMarkApi\\Repository\\IRepository\\IPermissionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:20:05.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IProductListRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Repository\\IRepository\\IProductListRepository.cs",
+              "RelativeDocumentMoniker": "ListMarkApi\\Repository\\IRepository\\IProductListRepository.cs",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Repository\\IRepository\\IProductListRepository.cs",
+              "RelativeToolTip": "ListMarkApi\\Repository\\IRepository\\IProductListRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:20:08.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICommonfieldsRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Repository\\IRepository\\ICommonfieldsRepository.cs",
+              "RelativeDocumentMoniker": "ListMarkApi\\Repository\\IRepository\\ICommonfieldsRepository.cs",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Repository\\IRepository\\ICommonfieldsRepository.cs",
+              "RelativeToolTip": "ListMarkApi\\Repository\\IRepository\\ICommonfieldsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:20:17.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Controller\\BrandController.cs",
+              "RelativeDocumentMoniker": "ListMarkApi\\Controller\\BrandController.cs",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Controller\\BrandController.cs",
+              "RelativeToolTip": "ListMarkApi\\Controller\\BrandController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:28:44.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Controller\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ListMarkApi\\Controller\\CategoryController.cs",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Controller\\CategoryController.cs",
+              "RelativeToolTip": "ListMarkApi\\Controller\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:28:44.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CommonfieldsController.cs",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Controller\\CommonfieldsController.cs",
+              "RelativeDocumentMoniker": "ListMarkApi\\Controller\\CommonfieldsController.cs",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Controller\\CommonfieldsController.cs",
+              "RelativeToolTip": "ListMarkApi\\Controller\\CommonfieldsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:28:44.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SupermarketController.cs",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Controller\\SupermarketController.cs",
+              "RelativeDocumentMoniker": "ListMarkApi\\Controller\\SupermarketController.cs",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Controller\\SupermarketController.cs",
+              "RelativeToolTip": "ListMarkApi\\Controller\\SupermarketController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:28:44.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "ListMarkApi\\Controller\\UserController.cs",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Controller\\UserController.cs",
+              "RelativeToolTip": "ListMarkApi\\Controller\\UserController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:28:44.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ListMarkApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\appsettings.Development.json",
+              "RelativeToolTip": "ListMarkApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-18T11:30:15.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Controller\\StockController.cs",
+              "RelativeDocumentMoniker": "ListMarkApi\\Controller\\StockController.cs",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Controller\\StockController.cs",
+              "RelativeToolTip": "ListMarkApi\\Controller\\StockController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwGEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:28:44.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240217005656_CreateTables.cs",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Migrations\\20240217005656_CreateTables.cs",
+              "RelativeDocumentMoniker": "ListMarkApi\\Migrations\\20240217005656_CreateTables.cs",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\Migrations\\20240217005656_CreateTables.cs",
+              "RelativeToolTip": "ListMarkApi\\Migrations\\20240217005656_CreateTables.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:28:44.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ListMarkApi\\appsettings.json",
+              "ToolTip": "C:\\Repos\\Esmilna\\ListMark\\ListMark\\ListMarkApi\\appsettings.json",
+              "RelativeToolTip": "ListMarkApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-18T11:28:44.898Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+<div class="container">
+    <h1>Lista de Compras</h1>
+
+    <button type="button" class="btn btn-primary mb-3" data-bs-toggle="modal" data-bs-target="#exampleModal">
+        Agregar Lista
+      </button>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Detalle</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Aquí iteraremos sobre la lista de productos -->
+            <tr *ngFor="let item of List">
+                <td>{{ item.name }}</td>
+                <td>{{ item.description }}</td>
+                <td>
+                    <button class="btn btn-sm btn-success" style="margin-right: 20px;" (click)="navigateToListDetail(item.id)">Ver Detalle</button>
+                    <button class="btn btn-sm btn-info" style="margin-right: 20px;">Editar</button>
+                    <button class="btn btn-sm btn-danger">Eliminar</button>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="mb-3">
+                        <label for="name-input" class="form-label">Name</label>
+                        <!--<input type="text" class="form-control" id="name-input" placeholder="Enter name">-->
+                        <input type="text" class="form-control" id="name-input" [(ngModel)]="newList.name" name="name" placeholder="Enter name">
+
+                    </div>
+                    <div class="mb-3">
+                        <label for="description-textarea" class="form-label">Description</label>
+                        <!--<textarea class="form-control" id="description-textarea" rows="3" placeholder="Enter description"></textarea>-->
+                        <textarea class="form-control" id="description-textarea" rows="3" [(ngModel)]="newList.description" name="description" placeholder="Enter description"></textarea>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <!-- <button type="button" class="btn btn-primary">Save changes</button>-->
+                <button type="button" class="btn btn-primary" (click)="addList()">Save changes</button>
+            </div>
+        </div>
+    </div>
+</div>

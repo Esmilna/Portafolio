@@ -1,0 +1,16 @@
+.imgSize{
+    height: 100%;
+    width: 100%;
+
+}
+.fontColor{
+    color: white;
+    text-align: justify;
+}
+.backgroundCard{
+    background-color: rgb(18, 18, 19) ;
+}
+
+.backgroundButton{
+    background-color:#49abf1 ;
+}

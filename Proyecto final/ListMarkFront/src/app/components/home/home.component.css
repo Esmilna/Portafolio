@@ -1,0 +1,55 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.image-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 5px;
+    padding: 20px;
+}
+
+.image-grid img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+
+/* Random sizes for demonstration with masonry-like appearance */
+
+.image-grid img.large {
+    grid-column: span 2;
+    grid-row: span 2;
+}
+
+.image-grid img.medium {
+    grid-column: span 2;
+}
+
+.image-grid img.small {
+    grid-column: span 1;
+}
+
+.carousel-inner img {
+    height: 30vh;
+    /* Set the height of the images to 65% of the viewport height */
+    object-fit: cover;
+}
+
+.custom-jumbotron {
+    background-color: rgba(200, 200, 200, 0.8);
+    /* Light gray background with transparency */
+    color: black;
+    /* Black text */
+    padding: 30px 20px;
+    /* Padding around the content */
+    border-radius: 8px;
+    /* Rounded corners */
+    margin-bottom: 20px;
+    /* Space below the jumbotron */
+}

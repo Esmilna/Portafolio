@@ -1,0 +1,85 @@
+<div class="container">
+    <h2>Productos en la Lista</h2>
+    <!-- Botón para agregar productos -->
+    <button class="btn btn-success mb-2" style="margin-right: 20px;" data-bs-toggle="modal" data-bs-target="#exampleModal">Crear Producto</button>
+    <!--<button class="btn btn-primary mb-2"  data-bs-toggle="modal" data-bs-target="#exampleModal2" (click)="addProduct()">Agregar Producto</button>-->
+    <button class="btn btn-primary mb-2" data-bs-toggle="modal" data-bs-target="#exampleModal2">Agregar a la lista</button>
+    <!-- Asegúrate de que ProductList no está vacío antes de mostrar la tabla -->
+    <table *ngIf="ProductList && ProductList.length > 0" class="table">
+        <thead>
+            <tr>
+                <th>Nombre del Producto</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Itera sobre ProductList para mostrar cada productName -->
+            <tr *ngFor="let product of ProductList">
+                <td>{{ product}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="form-group">
+                        <label for="nombreInput">Nombre</label>
+                        <input type="text" class="form-control" id="nombreInput" [(ngModel)]="productModel.name" name="nombre" placeholder="Introduce tu nombre">
+                    </div>
+                    <div class="form-group">
+                        <label for="desc">Descripción</label>
+                        <textarea class="form-control" id="desc" rows="3" [(ngModel)]="productModel.description" name="description"></textarea>
+                    </div>
+
+                    <!-- <div class="form-group">
+                        <label for="desc">Marca</label>
+                        <textarea class="form-control" id="desc" rows="3" [(ngModel)]="productModel.brandId" name="marca"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="desc">Categoria</label>
+                        <textarea class="form-control" id="desc" rows="3" [(ngModel)]="productModel.categoryId" name="Categoria"></textarea>
+                    </div>-->
+
+                </form>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary" (click)="addProduct()">Save changes</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <select [(ngModel)]="productSelected" class="form-control ">
+                    <option selected>Seleccione</option>
+                    <option *ngFor="let product of products" [value]="product.id">
+                      {{ product.name }}
+                    </option>
+                  </select>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary" (click)="AddProductToList()">agregar</button>
+            </div>
+        </div>
+    </div>
+</div>

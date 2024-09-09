@@ -1,0 +1,1175 @@
+[
+  {
+    "ContainingType": "ListMarkApi.Controller.BrandController",
+    "Method": "GetBrands",
+    "RelativePath": "api/Brand",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.BrandController",
+    "Method": "CreateBrand",
+    "RelativePath": "api/Brand",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "brand",
+        "Type": "ListMarkApi.Models.Brand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.BrandController",
+    "Method": "UpdateBrand",
+    "RelativePath": "api/Brand/{brandId}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "brandId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "brand",
+        "Type": "ListMarkApi.Models.Brand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.BrandController",
+    "Method": "DeleteBrand",
+    "RelativePath": "api/Brand/{brandId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "brandId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.BrandController",
+    "Method": "GetBrandByName",
+    "RelativePath": "api/Brand/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.BrandController",
+    "Method": "GetBrandById",
+    "RelativePath": "api/Brand/GetById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.CategoryController",
+    "Method": "GetCategory",
+    "RelativePath": "api/Category",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.CategoryController",
+    "Method": "CreateCategory",
+    "RelativePath": "api/Category",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "category",
+        "Type": "ListMarkApi.Models.Category",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.CategoryController",
+    "Method": "UpdateCategory",
+    "RelativePath": "api/Category/{categoryId}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoryId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "category",
+        "Type": "ListMarkApi.Models.Category",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.CategoryController",
+    "Method": "DeleteCategory",
+    "RelativePath": "api/Category/{categoryId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoryId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.CategoryController",
+    "Method": "GetCategoryByName",
+    "RelativePath": "api/Category/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.CategoryController",
+    "Method": "GetCategoryById",
+    "RelativePath": "api/Category/GetById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.CommonfieldsController",
+    "Method": "GetCommonfields",
+    "RelativePath": "api/Commonfields",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.CommonfieldsController",
+    "Method": "CreateCommonfields",
+    "RelativePath": "api/Commonfields",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "commonfields",
+        "Type": "ListMarkApi.Models.Commonfields",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.CommonfieldsController",
+    "Method": "UpdateCommonfields",
+    "RelativePath": "api/Commonfields/{commonfieldsId}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "commonfieldsId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "commonfields",
+        "Type": "ListMarkApi.Models.Commonfields",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.CommonfieldsController",
+    "Method": "DeleteCommonfields",
+    "RelativePath": "api/Commonfields/{commonfieldsId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "commonfieldsId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.CommonfieldsController",
+    "Method": "GetCommonfieldsById",
+    "RelativePath": "api/Commonfields/GetById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.DetailsController",
+    "Method": "GetDetails",
+    "RelativePath": "api/Details",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.DetailsController",
+    "Method": "CreateDetails",
+    "RelativePath": "api/Details",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "details",
+        "Type": "ListMarkApi.Models.Details",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.DetailsController",
+    "Method": "UpdateDetails",
+    "RelativePath": "api/Details/{detailsId}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "detailsId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "details",
+        "Type": "ListMarkApi.Models.Details",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.DetailsController",
+    "Method": "DeleteDetails",
+    "RelativePath": "api/Details/{detailsId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "detailsId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.DetailsController",
+    "Method": "GetDetailsById",
+    "RelativePath": "api/Details/GetById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.ListController",
+    "Method": "GetList",
+    "RelativePath": "api/List",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.ListController",
+    "Method": "CreateList",
+    "RelativePath": "api/List",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "list",
+        "Type": "ListMarkApi.Models.List",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.ListController",
+    "Method": "UpdateList",
+    "RelativePath": "api/List/{listId}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "listId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "list",
+        "Type": "ListMarkApi.Models.List",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.ListController",
+    "Method": "DeleteList",
+    "RelativePath": "api/List/{listId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "listId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.ListController",
+    "Method": "GetListByName",
+    "RelativePath": "api/List/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.ListController",
+    "Method": "GetListById",
+    "RelativePath": "api/List/GetById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.ListDetailsController",
+    "Method": "GetListDetails",
+    "RelativePath": "api/ListDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.ListDetailsController",
+    "Method": "CreateListDetails",
+    "RelativePath": "api/ListDetails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "listdetails",
+        "Type": "ListMarkApi.Models.ListDetails",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.ListDetailsController",
+    "Method": "UpdateListDetails",
+    "RelativePath": "api/ListDetails/{listdetailsId}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "listdetailsId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "listdetails",
+        "Type": "ListMarkApi.Models.ListDetails",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.ListDetailsController",
+    "Method": "DeleteListDetails",
+    "RelativePath": "api/ListDetails/{listdetailsId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "listdetailsId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.ListDetailsController",
+    "Method": "GetListDetailsById",
+    "RelativePath": "api/ListDetails/GetById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.LogController",
+    "Method": "GetBrands",
+    "RelativePath": "api/Log",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.LogController",
+    "Method": "CreateLog",
+    "RelativePath": "api/Log",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "log",
+        "Type": "ListMarkApi.Models.Log",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.LogController",
+    "Method": "GetLogByName",
+    "RelativePath": "api/Log/{code}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.LogController",
+    "Method": "UpdateLog",
+    "RelativePath": "api/Log/{logId}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "logId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "log",
+        "Type": "ListMarkApi.Models.Log",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.LogController",
+    "Method": "DeleteLog",
+    "RelativePath": "api/Log/{logId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "logId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.LogController",
+    "Method": "GetLogById",
+    "RelativePath": "api/Log/GetById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.PermissionController",
+    "Method": "GetPermission",
+    "RelativePath": "api/Permission",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.PermissionController",
+    "Method": "CreatePermission",
+    "RelativePath": "api/Permission",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "permission",
+        "Type": "ListMarkApi.Models.Permission",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.PermissionController",
+    "Method": "GetPermissionByName",
+    "RelativePath": "api/Permission/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.PermissionController",
+    "Method": "UpdatePermission",
+    "RelativePath": "api/Permission/{permissionId}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "permissionId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "permission",
+        "Type": "ListMarkApi.Models.Permission",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.PermissionController",
+    "Method": "DeletePermission",
+    "RelativePath": "api/Permission/{permissionId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "permissionId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.PermissionController",
+    "Method": "GetPermissionById",
+    "RelativePath": "api/Permission/GetById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.ProductController",
+    "Method": "GetProduct",
+    "RelativePath": "api/Product",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.ProductController",
+    "Method": "CreateProduct",
+    "RelativePath": "api/Product",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "ListMarkApi.Models.Product",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.ProductController",
+    "Method": "GetProductByName",
+    "RelativePath": "api/Product/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.ProductController",
+    "Method": "UpdateProduct",
+    "RelativePath": "api/Product/{productId}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "product",
+        "Type": "ListMarkApi.Models.Product",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.ProductController",
+    "Method": "DeleteBrand",
+    "RelativePath": "api/Product/{productId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.ProductController",
+    "Method": "GeProducttById",
+    "RelativePath": "api/Product/GetById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.ProductListController",
+    "Method": "GetProductList",
+    "RelativePath": "api/ProductList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.ProductListController",
+    "Method": "CreateProductList",
+    "RelativePath": "api/ProductList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productlist",
+        "Type": "ListMarkApi.Models.ProductList",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.ProductListController",
+    "Method": "UpdateProductList",
+    "RelativePath": "api/ProductList/{productlistId}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productlistId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "productlist",
+        "Type": "ListMarkApi.Models.ProductList",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.ProductListController",
+    "Method": "DeleteProductList",
+    "RelativePath": "api/ProductList/{productlistId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productlistId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.ProductListController",
+    "Method": "GetProductListById",
+    "RelativePath": "api/ProductList/GetById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.StockController",
+    "Method": "GetStock",
+    "RelativePath": "api/Stock",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.StockController",
+    "Method": "CreateStock",
+    "RelativePath": "api/Stock",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "stock",
+        "Type": "ListMarkApi.Models.Stock",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.StockController",
+    "Method": "UpdateStock",
+    "RelativePath": "api/Stock/{stockId}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "stockId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "stock",
+        "Type": "ListMarkApi.Models.Stock",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.StockController",
+    "Method": "DeleteStock",
+    "RelativePath": "api/Stock/{stockId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "stockId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.StockController",
+    "Method": "GetStockById",
+    "RelativePath": "api/Stock/GetById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.SupermarketController",
+    "Method": "GetSupermarket",
+    "RelativePath": "api/Supermarket",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.SupermarketController",
+    "Method": "CreateSupermarket",
+    "RelativePath": "api/Supermarket",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "supermarket",
+        "Type": "ListMarkApi.Models.Supermarket",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.SupermarketController",
+    "Method": "GetSupermarketByName",
+    "RelativePath": "api/Supermarket/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.SupermarketController",
+    "Method": "UpdateSupermarket",
+    "RelativePath": "api/Supermarket/{supermarketId}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "supermarketId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "supermarket",
+        "Type": "ListMarkApi.Models.Supermarket",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.SupermarketController",
+    "Method": "DeleteSupermarket",
+    "RelativePath": "api/Supermarket/{supermarketId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "supermarketId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.SupermarketController",
+    "Method": "GetSupermarketById",
+    "RelativePath": "api/Supermarket/GetById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.UserController",
+    "Method": "GetUser",
+    "RelativePath": "api/User",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.UserController",
+    "Method": "CreateBrand",
+    "RelativePath": "api/User",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "ListMarkApi.Models.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.UserController",
+    "Method": "GetUserByName",
+    "RelativePath": "api/User/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.UserController",
+    "Method": "UpdateUser",
+    "RelativePath": "api/User/{userId}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "user",
+        "Type": "ListMarkApi.Models.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.UserController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/User/{userId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ListMarkApi.Controller.UserController",
+    "Method": "GetUserById",
+    "RelativePath": "api/User/GetById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Program\u002B\u003C\u003Ec__DisplayClass0_0",
+    "Method": "\u003C\u003CMain\u003E$\u003Eb__2",
+    "RelativePath": "weatherforecast",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "WeatherForecast[]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

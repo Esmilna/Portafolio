@@ -1,0 +1,50 @@
+.img-size {
+    width: 100px;
+    height: 100px
+}
+
+.nombreProductoMargin {
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.precioVenta {
+    color: gray;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+.precioOferta {
+    color: red;
+    margin-top: 20px;
+}
+
+.margenIzquierdo {
+    margin-left: 25px;
+}
+
+.margenSuperior {
+    margin-top: 25px;
+}
+
+.marginSuperiorBotones {
+    margin-top: 40px;
+}
+
+.tamanoImagen {
+    width: 100%;
+    height: 100%;
+}
+
+.imagenPrincipal {
+    width: 100%;
+    height: 100%
+}
+
+.Borde {
+    border-radius: 0px;
+}
+
+.price-old {
+    color: red;
+}

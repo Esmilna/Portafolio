@@ -1,0 +1,35 @@
+﻿.payment-success-screen {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px auto;
+    max-width: 600px;
+    text-align: center;
+}
+
+    .payment-success-screen h1 {
+        font-size: 2rem;
+        margin-bottom: 20px;
+    }
+
+    .payment-success-screen p {
+        font-size: 1.2rem;
+        margin-bottom: 30px;
+    }
+
+    .payment-success-screen button {
+        background-color: blue;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        font-size: 1rem;
+        cursor: pointer;
+    }
+
+    .payment-success-screen button:hover {
+        background-color: darkblue;
+        }
+    .payment-success-screen img {
+        transform: scale(2);
+    }

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="328dp"
+        android:orientation="vertical"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="0dp">
+
+        <Button
+            android:id="@+id/btnSphere"
+            android:layout_width="162dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="10sp"
+            android:background="@color/btn_bg_primary"
+            android:text="Esfera"
+            android:textAlignment="center"
+            android:textColor="#FAFAFA"
+            android:textColorHint="#E8E4E4"
+            android:textColorLink="#FFFFFF" />
+
+        <Button
+            android:id="@+id/btnCylinder"
+            android:layout_width="162dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="10sp"
+            android:background="@color/btn_bg_primary"
+            android:text="Cilindro"
+            android:textAlignment="center"
+            android:textColor="#FAFAFA"
+            android:textColorHint="#E8E4E4"
+            android:textColorLink="#FFFFFF" />
+
+        <Button
+            android:id="@+id/btnCircularCone"
+            android:layout_width="168dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="10sp"
+            android:background="@color/btn_bg_primary"
+            android:text="Cono Circular"
+            android:textAlignment="center"
+            android:textColor="#FAFAFA"
+            android:textColorHint="#E8E4E4"
+            android:textColorLink="#FFFFFF" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
